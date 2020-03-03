@@ -1,11 +1,11 @@
 # Site settings
 author: Jessica Smith
-title: 
+title: Code404It
 header-img: img/home-bg.png
 email: jessikahd.smith@gmail.com
 copyright_name: Jessica Smith
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My world is 80% analog, 15% digital, 5% making it up as I go along.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Code404It
